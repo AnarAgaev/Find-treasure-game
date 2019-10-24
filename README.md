@@ -1,4 +1,4 @@
-# find-treasure-game
+# Find treasure game
 Find a treasure on the little map.
 
 # Description
