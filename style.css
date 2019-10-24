@@ -88,4 +88,8 @@ body {
     #informer {
         font-size: 1em;
     }
+
+    #subtitle {
+        margin-bottom: 10px;
+    }
 }
